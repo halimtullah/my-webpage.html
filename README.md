@@ -1,4 +1,4 @@
-# {my-first-webpage}
+# my-first-webpage
 #### This application describe what I'm about to learn in Moringa School, 10 March 2020
 #### By **{Halima issack and Angel Wanjiru}**
 ## Description
